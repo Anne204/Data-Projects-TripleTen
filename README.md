@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Report Based Project](https://github.com/Anne204/Data-Projects-TripleTen/tree/main/Report%20Based%20Project) | Report of key findings and recommendations for Fresh Beats including the use of Google Docs and Google Sheets. |
+| 1 | [Report Based Project](https://github.com/Anne204/Data-Projects-TripleTen/tree/main/Report%20Based%20Project) | Key Findings and Recommendations Report for Fresh Beats, including the utilization of Google Docs and Google Sheets. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
