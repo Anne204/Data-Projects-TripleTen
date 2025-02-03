@@ -1,0 +1,23 @@
+**Requirements for Sprint 6: Power BI - Shopify App Analysis**
+
+- **App Landscape:**
+  - Create a page with key app statistics.
+  - Display total number of apps using a KPI card.
+  - Visualize review trends over time with a line chart.
+  - Show relationship between review count and average rating with a scatterplot.
+
+- **Reviews:**
+  - Create a new page focused on reviews.
+  - Calculate a new column that weighs reviews based on helpfulness.
+  - Visualize average helpful review scores with a card.
+  - Compare ratings based on whether developers responded to reviews using a scatterplot.
+
+- **App Reviews:**
+  - Create a page to analyze app reviews.
+  - Establish relationships between tables for app and review data.
+  - Create bar charts comparing ratings by developer and helpful reviews.
+  - Identify developers with high response rates, filtering for popular apps.
+
+- **Final Submission:**
+  - Organize your work into distinct pages for each part.
+  - Take and submit screenshots showing your analysis for each section.
