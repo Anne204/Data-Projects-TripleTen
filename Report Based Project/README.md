@@ -1,2 +1,1 @@
-Project page under construction
-project description, pictures, links, project details
+The objective of this project is to apply Business Analytics skills to analyze and provide actionable insights for Fresh Beats, an online platform revolutionizing the music industry. The project involves preparing a report that summarizes key findings, evaluates business challenges, and recommends strategies for enhancing artist promotion, user engagement, and genre promotion. The report integrates selected insights, data visualizations, and a clear connection to the company’s strategic needs, aiming to support decision-making for stakeholders.
