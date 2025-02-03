@@ -1,0 +1,22 @@
+**Requirements for Sprint 7: Final Project**
+
+- **Decomposition (Planning):**
+  - Choose one analysis focus: Customer Analysis, Restaurant Analysis, or Sales Analysis.
+  - Create a detailed research plan with clear questions, hypotheses, and visualization types.
+  - Specify how data will be prepared and processed before building the dashboard.
+  - Ensure your plan aligns with the chosen research area and gives a clear picture of the dashboard content.
+  - Submit your plan as a .pdf file in a .zip folder (max 10 MB).
+
+- **Dashboard:**
+  - Create a dashboard relevant to your chosen research area (Customer, Restaurant, or Sales).
+  - Use either Tableau Public or Power BI to design the dashboard.
+  - Ensure the dashboard tells a cohesive story with each visualization supporting the narrative.
+  
+- **Report/Presentation:**
+  - Prepare a report or presentation that includes your findings and conclusions.
+  - Provide actionable recommendations based on your analysis.
+  - The report format can be flexible (document, PDF, or presentation with graphs).
+  
+- **Submission:**
+  - Submit the research plan (decomposition), dashboard, and report/presentation for review.
+  - Ensure all deliverables are approved by your team leader.
