@@ -1,0 +1,34 @@
+**Requirements for Sprint 1: Spreadsheet Data Analysis**
+
+- **Data Cleaning:**
+  - Clean neighborhood column (remove inconsistent capitalization and trailing spaces).
+  - Create a new column called `neighborhood_clean`.
+  - Clean bedroom column (handle empty cells for studio apartments).
+  - Create a new column called `bedrooms_clean`.
+
+- **Analysis & Pivot Tables:**
+  - Build a pivot table to identify the 10 most attractive neighborhoods based on reviews in the last 12 months.
+  - Build a pivot table to identify the most popular property sizes (number of bedrooms).
+  - Update pivot table to analyze property size preferences for each of the top 10 neighborhoods.
+
+- **Revenue Calculation:**
+  - Create a new column `top_listing` to mark listings that match criteria for top 10 neighborhoods and property sizes.
+  - Add a `revenue_earned` column to the calendar data, representing nightly revenue.
+  - Create a corresponding `revenue_earned` column in the listings data and use `SUMIF` to aggregate the revenue.
+  - Build a pivot table to rank top listings by revenue.
+
+- **Executive Summary:**
+  - Include an executive summary and table of contents in the analysis.
+  - Document data cleaning steps in a separate sheet (change log).
+  - Document assumptions clearly.
+  
+- **Formatting & Consistency:**
+  - Ensure consistent formatting (borders, colors, fonts) across the analysis.
+  - Hide unnecessary columns.
+  
+- **Sharing:**
+  - Generate a share link with "Anyone with the link" set to "Commenter" for review.
+
+- **Optional:**
+  - Estimate annual revenue by multiplying 30-day earnings by 12.
+
