@@ -1,1 +1,26 @@
-contextual requirements
+**Requirements for Sprint 0: Welcome Sprint - Fresh Beats Report**
+
+- **Report Format**
+  - Use the provided **report template**.
+  - Provide insights from the data and visuals to summarize key findings.
+  - Write a **Status Summary** (2 paragraphs) summarizing insights and linking them to business challenges.
+
+- **Business Challenges to Address**
+  - **Artist Promotion Effectiveness**: Evaluate the effectiveness of current artist promotion strategies.
+  - **User Engagement & Conversion**: Enhance user engagement and convert free users to paid subscribers.
+  - **Genre Promotion for Emerging Artists**: Improve content recommendations for emerging artists by focusing on genres.
+
+- **Data & Visuals**
+  - Select insights from the **dataset spreadsheet**.
+  - Add **appropriate visuals** to the report (copy-paste, using “Paste unlinked” option).
+  - Relate insights back to the business challenges and use them to make recommendations.
+
+- **Submission**
+  - Submit the report as a **Google Doc URL** with correct sharing settings.
+  - Fill in the **“Project Summary”** section.
+  - Apply **consistent text styles**.
+  - Follow all submission guidelines for review and resubmission if needed.
+
+- **Review Process**
+  - You will receive feedback within **24 hours**.
+  - Make any necessary changes and resubmit until the project is accepted.
